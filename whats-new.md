@@ -5,7 +5,7 @@ Tap [here](https://itunes.apple.com/app/id6504709338?action=write-review) to lea
 
 ### Version 1.2.4
 - Fixed: Yoga session day view now updates correctly after completing a session.
-- New: Quick actions! Long press the app icon to quickly start a yoga session or send feedback.
+- New: Quick actions! Long press the app icon to quickly start a yoga session and send feedback.
 - Improved: Added a one-time tip for the activity heatmap to help you get started.
 
 ### Version 1.2.3
