@@ -1,7 +1,12 @@
-# What's New in [Yoga Streaks](https://apps.apple.com/in/app/yoga-streaks/id6504709338)? 🧘‍♂️
+# [Yoga Streaks](https://apps.apple.com/in/app/yoga-streaks/id6504709338)🧘‍♂️ - Release Notes
 
 If you enjoy using [Yoga Streaks](https://apps.apple.com/in/app/yoga-streaks/id6504709338), I’d truly appreciate it if you could take a moment to rate the app and leave a kind review. Your support helps more people discover it! 
 Tap [here](https://itunes.apple.com/app/id6504709338?action=write-review) to leave your review. Thank you 🙏, Vinoth
+
+### Version 1.2.4
+- Fixed: Yoga session day view now updates correctly after completing a session.
+- New: Quick actions! Long press the app icon to quickly start a yoga session or send feedback.
+- Improved: Added a one-time tip for the activity heatmap to help you get started.
 
 ### Version 1.2.3
 - Polished up the app with small fixes
