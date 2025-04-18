@@ -4,7 +4,7 @@ If you enjoy using [Yoga Streaks](https://apps.apple.com/in/app/yoga-streaks/id6
 Tap [here](https://itunes.apple.com/app/id6504709338?action=write-review) to leave your review. Thank you 🙏, Vinoth
 
 ### Version 1.2.5
-Polished a few things and fixed bugs
+- Polished a few things and fixed bugs
 
 ### Version 1.2.4
 - Fixed: Yoga session day view now updates correctly after completing a session.
